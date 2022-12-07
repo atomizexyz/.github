@@ -18,6 +18,7 @@ The Atomize team was co-founded by [Joe Blau](https://twitter.com/joeblau) and [
 ## Help Us
 
 - [Translate xen.fyi](https://github.com/atomizexyz/xenfyi/blob/main/public/locales/en/common.json) - Speak multiple languages? Help us bring xen.fyi to everyone around he world translating our site into other languages.
+  - [x] Filipino
   - [ ] Polish
   - [ ] Vietnamese
   - [ ] Mandarin
