@@ -22,7 +22,6 @@ The Atomize team was co-founded by [Joe Blau](https://twitter.com/joeblau) and [
   - [x] Chinese
   - [ ] Polish
   - [ ] Vietnamese
-  - [ ] Mandarin
   - [ ] Indonesian
   - [ ] German
   - [ ] Japanese
